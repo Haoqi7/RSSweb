@@ -1,0 +1,28 @@
+Credits
+=======
+
+Lilina Contributors
+-------------------
+* Ryan McCue <cubegames@gmail.com>
+* Panayotis Vryonis <panayotis@vrypan.net>
+* Jean-Marc Liotier <jim@liotier.org>
+* Trevor Fitzgerald <fitztrev@gmail.com>
+
+Libraries/Includes Used
+-----------------------
+* HTMLPurifier by Edward Z. Yang
+	http://htmlpurifier.org/
+* jQuery by John Resig
+	http://jquery.org/
+* xitecode
+	http://xitecode.tigris.org/
+* PHP-gettext by Danilo Segan, Nico Kaiser and Steven Armstrong
+* SimplePie by Ryan Parman and Geoffery Sneddon
+	http://simplepie.org/
+
+Code Borrowed From/Inspiration
+------------------------------
+* Feed on Feeds
+	http://feedonfeeds.com/
+* WordPress
+	http://wordpress.org/
